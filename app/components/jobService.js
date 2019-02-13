@@ -10,7 +10,7 @@ let _state = {
 }
 
 let _subscribers = {
-  cars: []
+  jobs: []
 }
 
 function setState(dataName, value) {

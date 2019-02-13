@@ -7,6 +7,7 @@ class App {
     constructor() {
         this.controllers = {
             carController: new CarController()
+            jobController: new JobController()
         }
     }
 }
